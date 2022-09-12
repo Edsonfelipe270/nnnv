@@ -1,0 +1,163 @@
+.nome{
+ margin-top: 22px;
+}
+.nome input[type="text"]{
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    
+
+}
+
+
+body{
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+
+h1{
+    font-size: 1.47cm;
+    font-family: fantasy;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+
+}
+
+span{
+    color: red;
+}
+
+p{
+    font-size: 0.54cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+
+}
+
+.email{
+    margin-top: 22px;
+}
+
+.email input[type="email"]{
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    
+
+}
+
+.Senha{
+    margin-top: 22px;
+}
+
+.Senha input[type="password"]{
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+    
+}
+
+.Senha input[type="text"]{
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+    
+}
+
+
+
+.Nascimento{
+    margin-top: 22px;
+}
+
+.Nascimento input[type="date"]{
+
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    
+
+
+}
+
+select{
+    margin-top: 0.23cm;
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+}
+
+
+.Estado-Civil{
+    margin-top: 0.89cm;
+}
+
+
+.Passatempos{
+    margin-top: 0.83cm !important ;
+}
+
+.Numero{
+    margin-top: 22px;
+}
+
+.Numero input[type="tel"]{
+
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    
+}
+
+
+.caixa{
+    margin-top: 22px;
+    padding: 0.4cm;
+    border: 1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    
+}
+
+
+
+.Cadastro {
+    margin-top: 33px;
+    color: white !important;
+}
+
+
+.Cadastro input[type="submit"]{
+    
+    font-size: 0.58cm !important;
+    background: darkred !important;
+    border: 0 !important;
+    margin-bottom: 1cm !important;
+    color: white !important;
+    padding: 0.2cm 0.6cm !important;
+    box-shadow: 2px 2px 2px black !important;
+    text-shadow: 2px 2px black !important;
+}
+
+#olho{
+    cursor:pointer;
+    position: absolute;
+    
+}
+
+
+@media (min-width:480px){
+
+
+    #img00{
+    
+    
+    }
+
+}
+

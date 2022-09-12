@@ -1,0 +1,485 @@
+.nome{
+    margin-top: 0.23cm;
+}
+.nome input[type="name"]{
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+}
+
+.email{
+    margin-top: 0.23cm;
+
+}
+
+.email input[type="email"]{
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+    
+}
+
+.Senha{
+    margin-top: 0.23cm;
+}
+
+.Senha input[type="password"]{
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+}
+
+.Nascimento{
+    margin-top: 0.23cm;
+}
+
+.Nascimento input[type="date"]{
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+}
+
+select{
+    margin-top: 0.23cm;
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+
+}
+
+.Estado-Civil{
+    margin-top: 0.23cm;
+}
+
+.Numero{
+    margin-top: 0.23cm;
+}
+
+.Numero input[type="tel"]{
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    box-shadow: 2px 2px 2px black;
+}
+
+.Cadastro{
+    margin-top: 0.33cm; 
+
+    
+
+}
+
+.Cadastro input[type="button"]{
+    font-size: 0.47cm;
+    background:darkred;
+    border:0;
+    margin-bottom: 1cm;
+    color:#ffffff;
+    padding: 0.2cm 0.6cm;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+
+}
+
+.Botoes{
+    margin-top: 0.43cm; 
+}
+
+.Botoes input[type="submit"]{
+    font-size: 0.47cm;
+    background:darkblue;
+    border:0;
+    margin-bottom: 1cm;
+    color:#ffffff;
+    padding: 0.2cm 0.6cm;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+    
+}
+
+body{
+   
+    color:purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+h2{
+    font-size: 1.49cm;
+    font-family: fantasy;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+}
+
+p{
+    font-size: 0.49cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+}
+
+span{
+    color: red;
+}
+
+
+h1{
+    font-size: 1.55cm;
+    font-family: fantasy;
+    padding: 0.2cm 0.6cm;
+ box-shadow: 2px 2px 2px black;
+ text-shadow: 1px 1px black;
+}
+
+.buttons input[type="button"]{
+    font-size: 0.47cm;
+    background:#59429d;
+    border:0;
+    margin-bottom: 1cm;
+    color:#ffffff;
+    padding: 0.2cm 0.6cm;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+
+   }
+   .botao input[type="button"]{
+    font-size: 0.47cm;
+    background:gold;
+    border:0;
+    margin-bottom: 1cm;
+    color:#ffffff;
+    padding: 0.2cm 0.6cm;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+
+   }
+
+   p{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+   .accordion-button, .accordion-body {
+    background-color:white !important;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+}.accordion-button {
+    box-shadow: initial !important;
+}
+
+.accordion-item {
+    border: 0px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#Dois{
+    margin-top: 2.39cm !important;
+}
+
+h3{
+    font-size: 1.29cm;
+    font-family: fantasy;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+}
+
+.fieldset{
+    margin-top: 2.29cm !important;
+    font-family: fantasy;
+    color:purple;
+
+}
+
+.Avança{
+    margin-top: 0.89cm !important; 
+}
+
+.Avança input[type="button"]{
+    font-size: 0.47cm;
+    background:gold;
+    border:0;
+    margin-bottom: 1cm;
+    color:#ffffff;
+    padding: 0.2cm 0.6cm;
+    box-shadow: 2px 2px 2px black;
+    text-shadow: 1px 1px black;
+}
+
+.botao-HTML{
+    margin-top: 1.89cm !important;
+    font-family: fantasy !important;
+    font-size: 1.19cm !important;
+    
+}
+
+    .botao-HTML input[type="button"]{
+        padding: 0.49cm;
+        width: 4.29cm;
+        border-radius: 25px 25px 25px 25px;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+        color:rebeccapurple;
+        background-color: skyblue;
+
+        
+
+    }
+
+    .botao-CSS{
+        margin-top: 1.89cm !important;
+    font-family: fantasy !important;
+    font-size: 1.19cm !important;
+    }
+
+
+    .botao-CSS input[type="button"]{
+        padding: 0.49cm;
+        width: 4.29cm;
+        border-radius: 25px 25px 25px 25px;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+        color:rebeccapurple;
+        background-color:springgreen;
+
+        
+
+    }
+
+    .Primeira-Aula{
+        margin-top: 0.89cm !important; 
+    }
+    
+    .Primeira-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:darkred;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+
+    .Segunda-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Segunda-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:darkblue;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Terceira-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Terceira-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:greenyellow;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Quarta-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Quarta-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:darkviolet;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Quinta-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Quinta-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:orange;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Perguntas-1{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Perguntas-1 input[type="button"]{
+        font-size: 0.47cm;
+        background:skyblue;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Sexta-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Sexta-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:fuchsia;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Setima-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Setima-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:lightslategray;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+
+    .Setima-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Oitava-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:orangered;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    .Nona-Aula{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Nona-Aula input[type="button"]{
+        font-size: 0.47cm;
+        background:pink;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+    
+    
+
+
+
+
+    .botao-A{
+        margin-top: 0.29cm !important; 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:darkcyan;
+    }
+    
+    .botao-A input[type="button"]{
+        font-size: 0.37cm;
+        background:darkblue;
+        border:25px 25px 25px 25px;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.49cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+
+    .botao-B{
+        margin-top: 0.19cm !important; 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:darkorange;
+    }
+    
+    .botao-B input[type="button"]{
+        font-size: 0.37cm;
+        background:darkred;
+        border:25px 25px 25px 25px;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.49cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+
+    .Perguntas-2{
+        margin-top: 0.19cm !important; 
+    }
+    
+    .Perguntas-2 input[type="button"]{
+        font-size: 0.47cm;
+        background:seagreen;
+        border:0;
+        margin-bottom: 1cm;
+        color:#ffffff;
+        padding: 0.2cm 0.6cm;
+        box-shadow: 2px 2px 2px black;
+        text-shadow: 1px 1px black;
+    }
+
+    @media (min-width:480px){
+        body{
+            width:100% !important;
+            margin:auto !important;
+        }
+        #Finale{
+            margin-top: 1.19cm !important;
+        }
+
+        #img00{
+            width:100% !important;
+        
+            height: 550px !important;
+        
+        }
+
+        #img1{
+            width:100% !important;
+            margin:0;
+            height: 750px !important;
+        
+        }
+
+        #img2{
+            width:100% !important;
+            margin:0;
+            height: 550px !important;
+        }
+
+        #img3{
+            width:100% !important;
+            margin:0;
+            height: 550px !important;
+        }
+
+        #img4{
+            width:100% !important;
+            margin:0;
+            height: 550px !important;
+        }
+    }
